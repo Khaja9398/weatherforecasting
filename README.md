@@ -6,8 +6,8 @@
 Weather forecasting is the attempt by meteorologists to predict the weather conditions at some future time and the weather conditions that may be expected. The climatic condition parameters are based on the temperature, wind, humidity, rainfall and size of data set.In this project i explained about types of forecasting and query help with a bot
 
 # Project demoLinks:
-Github Reposistory Link:
-Azure project Link:
+Github Reposistory Link:https://github.com/Khaja9398/weatherforecasting
+Azure project Link:https://red-flower-0f2780110.2.azurestaticapps.net
 
 # Azure Technologies used:
 Static webapp,
