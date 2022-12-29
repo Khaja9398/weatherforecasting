@@ -7,6 +7,9 @@ Weather forecasting is the attempt by meteorologists to predict the weather cond
 
 # Project demoLinks:
 Github Reposistory Link:https://github.com/Khaja9398/weatherforecasting
+
+
+
 Azure project Link:https://red-flower-0f2780110.2.azurestaticapps.net
 
 # Azure Technologies used:
